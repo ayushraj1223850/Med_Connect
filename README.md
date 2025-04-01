@@ -19,6 +19,25 @@
 - **Media Storage:** Cloudinary
 - **Communication:** HTTP/HTTPS, Email Integration
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>   
+<summary> Project Visuals </summary>
+
+  ![Screenshot 2025-04-02 031118](https://github.com/user-attachments/assets/e2a72644-fbaf-4f97-a56a-3ed361036483)
+
+ ![Screenshot 2025-04-02 031559](https://github.com/user-attachments/assets/3c9c8028-287e-4ea4-a584-270b1c236251)
+
+![Screenshot 2025-04-02 031332](https://github.com/user-attachments/assets/5b6534df-76d1-430e-97af-ebe84aef1388)
+
+![Screenshot 4](![Screenshot 2025-04-02 031357](https://github.com/user-attachments/assets/aa3b1fc9-4592-40f2-a0fc-c37ab8e2af74)
+
+![Screenshot 2025-04-02 031417](https://github.com/user-attachments/assets/e9f21993-3a11-401a-8977-c5c3d0022be2)
+
+![Screenshot 2025-04-02 031447](https://github.com/user-attachments/assets/7c20b740-80c9-452b-ac76-5e70de84b1e7)
+
+</details>
+
+
 ## Installation
 ### Prerequisites
 Ensure you have the following installed on your system:
@@ -61,16 +80,6 @@ Ensure you have the following installed on your system:
 - Register/Login as a patient, doctor, or admin.
 - Book appointments, manage schedules, and view reports.
 
-## API Endpoints
-| Method | Endpoint             | Description                    |
-|--------|----------------------|--------------------------------|
-| POST   | /api/auth/register   | Register a new user           |
-| POST   | /api/auth/login      | Login user                     |
-| GET    | /api/doctors         | Get list of doctors            |
-| POST   | /api/appointments    | Book an appointment           |
-| GET    | /api/patients        | Get patient records            |
-| PUT    | /api/patients/:id    | Update patient record         |
-
 ## Security Measures
 - **JWT Authentication** to ensure secure user sessions.
 - **Role-Based Access Control (RBAC)** for different user permissions.
@@ -84,10 +93,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Push to the branch and create a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### Author
 **Ayush Raj**
