@@ -1,4 +1,4 @@
-# MED_CONNECT - Online Doctor Consultation App
+# MED_CONNECT -  Smart Healthcare Management System
 ## Introduction
 **MED_CONNECT** is an online doctor consultation platform designed to provide efficient and convenient access to healthcare services. It enables cost and time savings for patients while facilitating improved doctor-patient communication. 
 
